@@ -22,7 +22,7 @@ def add(a, b):
 
 return a + b
 
-total = add(5) # BUG 5: missing second argument
+total = add(5) # BUG 5: missing second argumen
 
 def count():
 
